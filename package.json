@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Andre-cor/desenvolvimento-web-2025/issues"
   },
-  "homepage": "https://github.com/Andre-cor/desenvolvimento-web-2025#readme"
+  "homepage": "https://github.com/Andre-cor/desenvolvimento-web-2025#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
